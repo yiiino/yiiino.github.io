@@ -1,0 +1,8 @@
+baseURL = 'http://yiiino.github.io/'
+languageCode = 'ja-JP'
+title = '東ブログ'
+
+theme="clarity"
+
+[permalinks]
+post = ":filename"
